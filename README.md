@@ -4,7 +4,7 @@
 
 ![OFF GRID poster](poster.png)
 
-[观看或下载成片](OFF-GRID.mp4) · [下载整套工程 ZIP](https://github.com/1332217069-ops/off-grid-motion/releases/latest) · [关键帧总览](storyboard.jpg) · [完整抽帧](filmstrip.jpg)
+[观看或下载成片](OFF-GRID.mp4) · [下载整套工程 ZIP](https://github.com/a1332217069/off-grid-motion/releases/latest) · [关键帧总览](storyboard.jpg) · [完整抽帧](filmstrip.jpg)
 
 成片：1920 × 1080、30 fps、450 帧、H.264 + AAC、48 kHz 立体声，时长 15.000 秒。使用 180° 快门子采样运动模糊。
 
