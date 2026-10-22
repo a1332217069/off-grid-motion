@@ -1,0 +1,22 @@
+{
+ "comp": "C:\\Users\\Administrator\\Documents\\ChatGPT\\\u751f\u6210\u4ee3\u7801\u89c6\u9891\\outputs\\off-grid-20261022\\comp.html",
+ "fps": 30,
+ "scale": 1,
+ "size": [
+  1920,
+  1080
+ ],
+ "shutter": 180.0,
+ "samples": "adaptive",
+ "gap_px": 8.0,
+ "samples_per_moving_frame": {
+  "8": 333
+ },
+ "workers": 8,
+ "frames": 450,
+ "still_frames": 117,
+ "cut_frames": 7,
+ "captures": 2898,
+ "seconds": 122.3,
+ "final": false
+}

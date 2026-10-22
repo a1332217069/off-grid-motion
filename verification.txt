@@ -1,0 +1,17 @@
+
+OFF-GRID.mp4 — energy map:
+  0.0s |                :=--::::-:.   ..--=---+==::.:.:.|
+  4.0s |:.:   -*%@#-:                   ...             |
+  8.0s |          :=@#@=-.@%%*@-:.@=-.@=%@@@%+-::.      |
+ 12.0s |                                    |
+
+  PASS  cadence    shot lengths [1.3, 0.3, 0.8, 1.78, 1.16, 1.96, 1.3, 0.52, 0.36, 0.32, 0.33, 0.4, 2.47, 2.0]  CV 0.67 (need >= 0.25)
+  PASS  rest       still 0.35  longest quiet 2.92 s
+  PASS  burst      bursts [(1.42, 2.83), (2.83, 3.5), (4.5, 4.92), (8.92, 10.33), (10.33, 11.17)]
+  PASS  not-flat   row-profile variation 1.02 (advisory, >= 0.35)
+  PASS  audio      peak -3.9 dBFS  clipped 0  quiet 0.453
+  PASS  continuity carry score 1.00 over 2 boundaries; nothing carried at — (probe.py lists each)
+  PASS  curves     peak 570 px/frame @30 fps (ball: at 1.33 s), shutter 180° (render.json); soft curves 81 % of travel, median t80 0.72
+  PASS  framing    ball in frame 0–4.18 s (126 samples); wordmark wholly in frame 11.5–15 s (106 samples)
+
+VERDICT: PASS

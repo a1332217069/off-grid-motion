@@ -1,0 +1,6 @@
+playwright==1.63.0
+numpy==2.2.6
+scipy==1.15.3
+Pillow==12.3.0
+matplotlib==3.10.9
+opencv-python==5.0.0.93

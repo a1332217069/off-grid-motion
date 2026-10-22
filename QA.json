@@ -1,0 +1,97 @@
+{
+  "duration": 15,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "page_errors": [],
+  "external_requests": [],
+  "deterministic": [
+    {
+      "t": 0,
+      "equal": true
+    },
+    {
+      "t": 0.65,
+      "equal": true
+    },
+    {
+      "t": 1.58,
+      "equal": true
+    },
+    {
+      "t": 2.1,
+      "equal": true
+    },
+    {
+      "t": 3.52,
+      "equal": true
+    },
+    {
+      "t": 4.6,
+      "equal": true
+    },
+    {
+      "t": 5.6,
+      "equal": true
+    },
+    {
+      "t": 6.8,
+      "equal": true
+    },
+    {
+      "t": 7.8,
+      "equal": true
+    },
+    {
+      "t": 9.3,
+      "equal": true
+    },
+    {
+      "t": 9.7,
+      "equal": true
+    },
+    {
+      "t": 11.5,
+      "equal": true
+    },
+    {
+      "t": 14,
+      "equal": true
+    }
+  ],
+  "full_timeline": {
+    "samples": 901,
+    "bad": []
+  },
+  "rests": [
+    {
+      "window": [
+        0,
+        0.5
+      ],
+      "pixel_identical": true
+    },
+    {
+      "window": [
+        7.5,
+        8.4
+      ],
+      "pixel_identical": true
+    },
+    {
+      "window": [
+        13.2,
+        14.9
+      ],
+      "pixel_identical": true
+    }
+  ],
+  "player": {
+    "pause": true,
+    "scrub": true,
+    "keyboard": true,
+    "sound_button": true
+  },
+  "pass": true
+}

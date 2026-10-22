@@ -1,0 +1,128 @@
+[
+  {
+    "t": 1.6,
+    "kind": "hit",
+    "x": 620,
+    "strength": 1
+  },
+  {
+    "t": 1.7,
+    "kind": "hinge",
+    "x": 720,
+    "strength": 0.48
+  },
+  {
+    "t": 1.772,
+    "kind": "hinge",
+    "x": 835,
+    "strength": 0.48
+  },
+  {
+    "t": 1.8439999999999999,
+    "kind": "hinge",
+    "x": 950,
+    "strength": 0.48
+  },
+  {
+    "t": 1.916,
+    "kind": "hinge",
+    "x": 1065,
+    "strength": 0.48
+  },
+  {
+    "t": 1.988,
+    "kind": "hinge",
+    "x": 1180,
+    "strength": 0.48
+  },
+  {
+    "t": 2.06,
+    "kind": "hinge",
+    "x": 1295,
+    "strength": 0.48
+  },
+  {
+    "t": 2.65,
+    "kind": "air",
+    "x": 960,
+    "strength": 0.8
+  },
+  {
+    "t": 4.18,
+    "kind": "suck",
+    "x": 960,
+    "strength": 0.8
+  },
+  {
+    "t": 4.84,
+    "kind": "hit",
+    "x": 960,
+    "strength": 0.85
+  },
+  {
+    "t": 5.45,
+    "kind": "fold",
+    "x": 1100,
+    "strength": 0.5
+  },
+  {
+    "t": 6.16,
+    "kind": "fold",
+    "x": 800,
+    "strength": 0.5
+  },
+  {
+    "t": 8.72,
+    "kind": "air",
+    "x": 1100,
+    "strength": 0.75
+  },
+  {
+    "t": 9.12,
+    "kind": "hit",
+    "x": 960,
+    "strength": 1.2
+  },
+  {
+    "t": 9.48,
+    "kind": "type",
+    "x": 650,
+    "strength": 0.9
+  },
+  {
+    "t": 9.8,
+    "kind": "type",
+    "x": 1200,
+    "strength": 1
+  },
+  {
+    "t": 10.13,
+    "kind": "type",
+    "x": 960,
+    "strength": 1.05
+  },
+  {
+    "t": 10.53,
+    "kind": "air",
+    "x": 960,
+    "strength": 0.9
+  },
+  {
+    "t": 11.25,
+    "kind": "hinge",
+    "x": 500,
+    "strength": 0.6
+  },
+  {
+    "t": 12.16,
+    "kind": "hit",
+    "x": 1030,
+    "strength": 0.65
+  },
+  {
+    "t": 12.72,
+    "kind": "seal",
+    "x": 500,
+    "strength": 0.5
+  }
+]

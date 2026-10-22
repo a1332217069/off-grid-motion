@@ -1,0 +1,8 @@
+[llm-deepseek-account] model listing from https://api.deepseek.com/models loaded 2 model(s), skipped 0 row(s)
+**Verdict:** At 10.53, pose continuity is preserved (C0): position, scale, and rotation match. Velocity is not. Rotation stops abruptly despite prior angular velocity, so waiting modules visibly snap/stall, then resume from a stale angle. Fix by advancing rotation through each stagger or sampling each module at its own start time.
+
+Ball joins are C0 only; verify tangents don’t snap.
+
+Four-weight preload before `__ready` is sound.
+
+7.3–8.6 must freeze camera, lights, shadow-casting lights, and all time-driven noise, not just objects.

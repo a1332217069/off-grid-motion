@@ -1,0 +1,28 @@
+{
+  "duration": 15,
+  "width": 1920,
+  "height": 1080,
+  "advanced": true,
+  "decodedFrames": 16,
+  "seeks": [
+    {
+      "target": 1.6,
+      "actual": 1.6
+    },
+    {
+      "target": 4.84,
+      "actual": 4.84
+    },
+    {
+      "target": 9.12,
+      "actual": 9.12
+    },
+    {
+      "target": 14.8,
+      "actual": 14.8
+    }
+  ],
+  "error": null,
+  "page_errors": [],
+  "pass": true
+}
